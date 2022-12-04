@@ -1,5 +1,6 @@
 /*
  * File: 10-check_cycle.c
+ * Auth: Mwansa Bwalya
  */
 
 #include <stdlib.h>
