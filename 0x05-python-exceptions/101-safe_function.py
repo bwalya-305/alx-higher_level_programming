@@ -1,6 +1,5 @@
-#!/usr/bin/python3
-
-import sys
+#!/usr/bin/python
+safe_function = __import__('101-safe_function').safe_function
 
 def safe_function(fct, *args):
     """Executes a function safely.
