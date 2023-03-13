@@ -6,3 +6,6 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 1. Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
 2. Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
 3. Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
