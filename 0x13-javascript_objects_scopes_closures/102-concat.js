@@ -7,3 +7,4 @@ const fileB = fs.readFileSync(process.argv[3]);
 
 fs.writeFile(process.argv[4], fileA + fileB, function (err) {
   if (err) throw err;
+});
