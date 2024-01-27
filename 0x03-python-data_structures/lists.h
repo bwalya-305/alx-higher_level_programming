@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <Python.h>
 
 /**
  * struct listint_s - singly linked list
@@ -26,5 +27,7 @@ void free_listint(listint_t *head);
 void reverse_listint(listint_t **head);
 int is_palindrome(listint_t **head);
 void print_python_list_info(PyObject *p);
+def new_in_list(my_list, idx, element):
+def print_reversed_list_integer(my_list=[]):
 
 #endif /* LISTS_H */
